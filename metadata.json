@@ -1,0 +1,5 @@
+{
+  "name": "Magical Advent Calendar",
+  "description": "A festive interactive Christmas tree advent calendar where each ornament reveals a AI-generated holiday video surprise using Gemini Veo.",
+  "requestFramePermissions": []
+}
