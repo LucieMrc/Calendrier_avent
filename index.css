@@ -1,0 +1,16 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: 'Quicksand', sans-serif;
+  background: #020617;
+  overflow-x: hidden;
+  color: white;
+}
+
+.font-christmas {
+  font-family: 'Mountains of Christmas', cursive;
+}
